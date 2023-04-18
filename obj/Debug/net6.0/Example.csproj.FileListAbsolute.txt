@@ -1,0 +1,15 @@
+/Users/liliya/Desktop/учеба/C#/Example/bin/Debug/net6.0/Example
+/Users/liliya/Desktop/учеба/C#/Example/bin/Debug/net6.0/Example.deps.json
+/Users/liliya/Desktop/учеба/C#/Example/bin/Debug/net6.0/Example.runtimeconfig.json
+/Users/liliya/Desktop/учеба/C#/Example/bin/Debug/net6.0/Example.dll
+/Users/liliya/Desktop/учеба/C#/Example/bin/Debug/net6.0/Example.pdb
+/Users/liliya/Desktop/учеба/C#/Example/obj/Debug/net6.0/Example.csproj.AssemblyReference.cache
+/Users/liliya/Desktop/учеба/C#/Example/obj/Debug/net6.0/Example.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liliya/Desktop/учеба/C#/Example/obj/Debug/net6.0/Example.AssemblyInfoInputs.cache
+/Users/liliya/Desktop/учеба/C#/Example/obj/Debug/net6.0/Example.AssemblyInfo.cs
+/Users/liliya/Desktop/учеба/C#/Example/obj/Debug/net6.0/Example.csproj.CoreCompileInputs.cache
+/Users/liliya/Desktop/учеба/C#/Example/obj/Debug/net6.0/Example.dll
+/Users/liliya/Desktop/учеба/C#/Example/obj/Debug/net6.0/refint/Example.dll
+/Users/liliya/Desktop/учеба/C#/Example/obj/Debug/net6.0/Example.pdb
+/Users/liliya/Desktop/учеба/C#/Example/obj/Debug/net6.0/Example.genruntimeconfig.cache
+/Users/liliya/Desktop/учеба/C#/Example/obj/Debug/net6.0/ref/Example.dll
